@@ -1,0 +1,3278 @@
+okay
+now we're good to go
+I think
+morning.
+guys.
+guys.
+you wont believe.
+well.
+maybe you will...
+you know what... just forget it.
+i.got.it.
+ohhhh, it's nov 30th! it's payday!
+nope, no jews in texas?
+yeah, we get paid on the last day of the month.
+the fall?
+the shit you talking about, son?
+oh.
+that's like two days old now.
+gay.
+man.
+the google thing seems really creepy.
+and also really useful.
+so I'm torn.
+can you give me an example of what you use it for, ian?
+haha.
+okay.
+I use siri for that.
+(siri is the fucking worst).
+winter in california.
+is known as summer.
+alex.
+but can you launch a 90kg projectile 300m?
+tight.
+solid.
+^ you're welcome, chris.
+okay, gotta go fly to seattle.
+talk to you chumps later.
+and Vegas.
+what about Seattle ;(?
+speaking of maps. I don't think I like the Mercator projection.
+not yet.
+if i'm in london on the 13th i can go to the premier :/.
+<3.
+i looked into it. $1.5k~.
+not worth it for the premier.
+haha.
+is kahn in this one?
+id call your face a script.
+but id be wrong.
+did you not leave it with summer?
+well, i guess not.
+okay.
+just keep it.
+i made orher copies already.
+>summer got summer-y.
+lol.
+haha.
+and barely at that ;^P.
+do you get stopped on the street? "you're the mediatenple hobo!!"
+donald, you're drunk.
+chris leah?
+resilient, eh?
+b.cuz.
+once you've got the title once.
+youre golden.
+what!
+me too!
+ian isn't.
+hes not down with trains.
+i'll endorse you all for synergistic distributed solutions.
+haha.
+"Expert Power Waddler"
+ian: yes plz.
+ian, link to flecks profile?
+and your username and password?
+can we endorse each other for crushing it?
+i own a house.
+im fucking crushing it.
+:|.
+fuck.
+how the duck do you endorse someone.
+i can only click + buttons.
+fleck yeah it is.
+!aq linkedin is flecking hard.
+!aq linkedin is flecking hard.
+cmon fool.
+lyle.
+!aq butts.
+:/.
+!q.
+what happened.
+goddamn it.
+hahah.
+it works!
+chris types more than you di.
+yesh...
+whatever.
+made the same sentence twice :/.
+but that's a good start.
+good job chris.
+toure really tight.
+uhhhh.
+okay.
+well, gotta make sure markovify works that way.
+we might have to switch to the new line reader, which is slower.
+okay.
+so.
+as you type.
+we are logging individual responses.
+so when you type 'tight' it uses your corpus.
+no.
+we just have small corpuses.
+so it's not making a log.
+lot.
+the fact that it's doing anything right now is amazing.
+itll get better over time.
+tight? tight.
+other terms are the worst.
+amirite?
+ yeah, i'm flecking right.
+anyway.
+as we keep talking.
+itll get better.
+tight? tight.
+tight.
+solid is just a bunch of random bro stuff.
+joel: do you vape weed? if yes, what product do you use?
+tight.
+ian, say tight.
+what the hell.
+you don't talk enough.
+or with enough diversity.
+oh yeah?
+tight.
+^ boom.
+close, but not exactly.
+from my phone?
+ugh. one second.
+ wc ian.txt julian.txt.
+ 157  902 5179 ian.txt.
+ 138  516 2823 julian.txt.
+i just modified what you wrote.
+sounds like the problem is with you.
+good point, alex.
+^.
+your corpus is too small.
+do you want some natural male corpus enhancement?
+corpiagra - not just for ambiguous mexicans, anymore!
+listCmds.
+oh fick.
+okay cool.
+we all done flecked up now.
+hahah.
+you lose.
+im gonna make fleck a trigger.
+addCmd fleck markov.py 2.
+fleck.
+boom.
+you done flecked with the wrong engineer.
+choo-choo motherfucker.
+hahah.
+bad mothafle-- shut your mouth. / i'm only talking' 'bout shariff!
+>shariff as fleck.
+>mfw.
+my corpus is small too. but it's bigger than ian's.
+which double punctuation?
+who are we double penetrating?
+lol.
+narkov.
+damn it.
+markov.
+woah.
+uhhh.
+you go ahead.
+and write a script.
+and i'll wire it up.
+:|.
+o u gaiyz.
+this bot is great. i added some awesome features yesterday that none of you will care about.
+mothaflecking donald drumpf.
+oh?
+lets corpus the shit out of that.
+markov of wills book sounds interesting.
+if that was like three replies.
+it would've been awesome.
+okay. flight is leaving.
+peace iut.
+go fleck yourselves.
+haters.
+tight.
+haters gonna hate.
+markov.
+I feel like this is a lot slower.
+markov.
+:|.
+correct, donald.
+markov.
+markov
+haha
+it'll do each unique trigger keyword once
+call the bot with 'listCmds' to see a list of triggers
+ight
+tight
+damn it donald.
+morning
+what does that even mean?
+"max out your instagram activity" ?
+and now you're an IG baller
+why is yogurt so gross.
+get out.
+hahah
+the timing on that
+you left, ian showed up.
+said you were gay
+kind of fucked up, if you ask me.
+but, I guess, that's just ian.
+nice
+fuck, I don't want to be at work.
+;)
+tight.
+haha
+it's markov bro
+haha, I'd paste it on pastebin
+but it's blocked here.
+just login to will's server: /opt/sean/markov.py
+yeah, we block pastebin
+yeah
+we have an internal paste thing
+https://gist.github.com/anonymous/edfbba6eded11e08697c79e8ff82ee81
+su pian
+sup ian*
+yeah
+there's no state income tax here, brah
+so, we're not really seataxle
+hmmm
+I can work on that this evening
+I think I still have your number files (but may ask you to send those to me again)
+I just gotta figure out how to make screw holes
+hmmm
+can you email me the svg files? with suggested dimensions? (in mm)
+like, thickness => 5mm (or whatever)
+approx height I should try to get the digit to be
+and if you have any suggestions on where to put screw holes
+maybe like a dot or something
+I dunno
+okay
+we might be able to print a plug thing
+so the screw hole would be recessed, and then covered up
+but I don't really know how to do any of that yet
+earrings?
+I did that :D
+I made new ones yesterday, but my right ear is hurting, so I didn't put 'em in yet
+alex, look on thingiverse
+there are plugs there, and you can design them a bit
+or at least export them to tinkercad and do stuff
+oh
+ian
+did I paste this? https://gist.github.com/anonymous/edfbba6eded11e08697c79e8ff82ee81
+ah, I did
+what the fleck?
+aw fleck :{
+^
+yay
+my corpus isn't too small anymore!
+right donald?
+right?
+yofo?
+what the fucking fleck.
+lololol
+this is fun
+good job donald.
+can my job be to just write bots all day?
+I think that'd be flecking great.
+y u mad tho?
+I wasn't the jumper.
+I flew.
+mothaflecka
+ian
+sounds cool
+write it
+theres a way to mix markov chains too. we can do hybrid models.
+me neither, donald
+are you gonna pay me?
+if yes, i'll do it
+if no, maybe i'll still do it eventually
+not idea
+bot
+integrate with twilio
+so that !message actually texts someone
+and if they reply, it messages the chat
+chip chop chip, ian.
+chip
+ch0p
+chip
+we should run a copy of donald
+https://aws.amazon.com/lex/
+lyle is super successful
+nope
+no
+is he at amazon?
+i forget, is fleck custom markov?
+lol
+lol
+i just get distracted a lot
+and adding a command that calls an existing script... i don't remember that as well
+listCmds
+fuck, forgot
+he's just slow for markov things.
+he didn't
+that's the markov from your text
+ih god
+say fleck again
+sup joel
+ian, you say some weird shit
+oh boy
+youre flecking all over the place
+the problem is with you.
+fleck
+fleck
+oh poop
+time to update the fleck script
+MOTHERFUCKER
+thick/solid/tight
+oh
+that's a good reference
+show us what you got.
+show us what y0u g0t
+you wot, m8?
+I'm going to try and clone the markov functionality to amazon's internal IRC :D
+one day, will will be a great markov generator.
+dude, ian1, whaddup
+oh
+guys
+if you start typing under a new nick
+it starts a new corpus
+just fyi
+that cape is flecking tight.
+markov
+so, the state_size parameter makes better sentences
+I tried running it with 5 (which is supposedly creepy)
+it didn't work
+I don't think our corpus is large enough
+but I changed it to 3
+it just returns None
+oh
+I dunno?
+*shrug(
+when I ran it with 5 it didn't output
+I could have it try a few times
+yes'
+tight and markov and 0 and fleck all call the same script.
+two of them pass in your username, two do not.
+adding tries and increasing state size makes it slow
+we need a way to save a precomputed corpus.
+well, I don't know how to cache it at all
+but I changed state_size to 2
+let's see how tight and flecking co0l it is.
+not bad.
+not bad at all
+pretty flecking creepy.
+fleck is this channels frak
+ugh, too slow. :/
+text_model = markovify.NewlineText(text, state_size=2)
+is what we're doing
+well, we'd have to serialize and deserialize the text_modle
+I mean, I'm sure both of them are relatively slow
+having it not read the entire file on disk everytime we say "fleck" or "tight" or "markov" would be better, yeah.
+yeah, I'm trying to use h3 as a test bed
+and then I'll drop a bot on amazon
+like it ain't nobodies business.
+no
+haha
+what is lightsail?
+hater's gonna hate.
+oh yeahhhh
+I think I might abandon digitalocean for lightsail
+but it's basically just managing an EC2 instance for you, I think
+yeah
+RIP ... what's that website
+chatroulette
+eh, I'll remember it eventuallyt.
+just call me admiral ishmael naydiche
+v
+ishmael is lyle's pseudonym
+he doesn't like the other seamen to know his real name.
+oh he's the rear admiral alright.
+for the glorious nation of Bhutan
+also, bhutan is land locked and has no need for a navy.
+tight.
+tight
+:(
+donald, y u no love me?
+thats unflecking cool
+tight
+markov
+markov
+markov
+uhhh
+I think so
+but I don't post
+good talk.
+morning folks
+is everyone having a tight day so far?
+:|
+I don't know what happened
+it stopped making things.
+also, ian, re: ebooks from the other day. I'm looking for a specific book, it's not a novel. I guess it'd be "self-help" ?
+what do you have?
+also, fuck I really want to use this: https://api.whatdoestrumpthink.com/api/v1/quotes/random - but the ssl doesn't work on will's ve :-/
+oh, yeah, I've used gutenberg.
+great stuff.
+I just got the prince.
+watch out donald, here I come.
+yeah
+fleck
+The book formerly known as the autobiography of the artist formerly known as prince.
+[fap2] [/opt/sean] # lsb_release -a
+No LSB modules are available.
+Distributor ID: Ubuntu
+Description:    Ubuntu 10.04.4 LTS
+Release:        10.04 :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :Codename:       lucid
+what is this. 2010?
+^ we're at state_size = 2, that's why
+but the sentences seem to make more sense?
+very weird.
+donald
+donald
+donald does?
+donald, tight, thick, solid, fleck, markov, 0
+haha
+please, cpu overlord, forgive me. I'm merely trying to mock the man, not the bot.
+I think trump used to be a democrat too, no?
+lo]
+the witch thing?
+or the conflict of interest?
+haliburton?
+apparently amazon customer service is opening up tickets to one other with ascii cats.
+"You have been tagged by ghost kitty
+"
+           _,'|             _.-''``-...___..--';)
+           /_ \'.      __..-' ,      ,--...--'''
+          <\    .`--'''       `     /'
+           `-';'               ;   ; ;
+     __...--''     ___...--_..'  .;.'
+    (,__....----'''       (,..--''
+Unrelated team checking in, has someone set up a war room bridge?
+@Chris: lol,oh you.
+@alex: lol!
+also, for those that care (maybe no one?) childish gambino has a new album out.
+@Chris: yeah
+I've seen atlanta
+did you? what did you think?
+oh
+*shrug*
+it was entertaining
+there were a few really good moments
+and the rest is a bit meh?
+I just like donglover
+alex
+I don't get it
+what's going on?
+I'm ignorant of the goings on in the world. is the revolution starting? do I need to go buy some guns?
+the flecking worst.
+I changed the state_size to 3. I guess we're not ready for that level of sentience yet.
+the interesting thing is that people are afraid of change, and yet we're changing nonetheless, and for the worse.
+twitter is on the verge of shutting down, isn't it?
+if the gov't said we'll pay you $x to hide this
+I think they'd take it
+'cause I'm sure $x => millions
+but I also don't think there's a conspiracy.
+united states of russia jr
+do we not have any one in our ranks that works at twitter or facebook?
+I know a guy that works at FB up here, but I haven't seen him in a bit.
+find out if this is true.
+I'll do some effort on my end.
+but that's awful
+but why should we stand for that?
+why is everyone just okay with it? where did this complacency come from?
+man, I'm ashamed to be called a human.
+I feel like those suggestions are fruitless
+right
+but that's the problem, I am but one man.
+deleted by whom, chris?
+will, do you have a link?
+:-/
+can you get one sent to me?
+thank you :^}
+time to make a twilio bot.
+ian1, your corpus is fucked.
+flecked*
+[fap2] [/opt/sean] # python markov.py ian
+Taxmania. sounds like a font.
+like "Accounting"
+also sounds like "Account"
+Accounting*
+but only in name
+I haven't played it yet
+I need for VR to come to mac
+yeah, I know
+linux would also be acceptable.
+nope
+I'm aware
+I'll get VR when I'm 90
+I don't really game that much
+so I don't know if it'd really be worth it
+yeah we do.
+^5 donald.
+yeah
+I wonder if you can combine a kinect with VR to do that
+what's that, fnordy?
+oh man
+Fuck
+fUcK
+I just think it'd be cool to see the map redrawn as you play
+like that google earth 30-year timelapse thing.
+yeah.
+I hae that too!
+we should play a game.
+C&C!
+those were the days.
+that's amazing
+ian, I ran this: [fap2] [/opt/sean/text] # sed -i  's/\?\./?/g' *.txt
+!aq Get out of me.
+that was a markov original
+haha
+I ran a final sed. to ". => "
+trollocalypse.
+it's not only nigh, it's high af
+this is the matrix?
+only if your work was like a stock picker
+my life is like a video game.
+and I'm losing.
+look man, there are different achievement tracks
+and I'm not progressing on the ones I want to, I guess
+?
+I don't know
+this game is hard.
+it didn't come with a manual
+the controls are all fucked
+the xp grind is annoying.
+why am I doing it?
+what level am I trying to reach?
+what quest am I even fucking on right now?
+I totally misplaced the princess.
+don't even know who she is!
+yeah, my genes are losing in that respect.
+that's some "selfish gene" shit, ian.
+oh
+the pax 3 is on sale
+and like a chump, I bought one :-/
+it's the successor to the pax 2.
+duh
+paxvapor.com
+I've been smoking a lot
+I need to switch to vaping for the sake of my lungs.
+bicurious?
+we know.
+so
+vaping
+doesn't have actual combustion
+which is what creates things that are bad for your lungs, I believe?
+I'm not saying vaping is great for you, but it's probably better
+it's also not _as_ hot
+so it doens't hurt your through and stuff
+I inject 10 marijuanas a day.
+into my eyes. :FnordX!~root@216.70.82.164 PRIVMSG #realh3 :Injecting a whole marajuana
+!q
+that would've been too perfect.
+!q
+!q
+buenos dias
+oh, hm
+I thought that worked.
+oh well.
+late night?
+haha
+lol
+buenos dias
+hm
+it loads it in wrong.
+https://i.reddituploads.com/cf47304ead5e48cf8e569822466a2a7b?fit=max&h=1536&w=1536&s=0441af3f99ea2d503aafa4b0c552b6d7
+alex: https://youtu.be/xPM85MCgqXo
+tight
+it's a lot flecking slower, donald. sometimes you take seconds to reply.
+I have the best breath.
+I got it direct from chyyyyyyyna
+yes.
+I know.
+I'm a bad programmer.
+tell me something new.
+you can add a tries
+so that it tries a bunch of times
+sure
+do you want me to write it?
+yeah, 'state_size'
+for i in reverse(range(1, 5)):
+  do the thing
+I don't know if `reverse` is a function or not
+just make sure you return as soon as you have something
+keep in mind also that it will take a while
+esp. if it fails until state_size of 2
+I just tweaked our markov script to start at 5 and work down to 1
+and it's slow as fuck. :ian!~ian@rrcs-24-136-125-138.nyc.biz.rr.com PRIVMSG #realh3 :hahahah
+I don't know.
+it might fail fast down to something reasonable?
+pretty close to sentient, eh donald-o?
+[fap2] [/opt/sean] # time ./markov.py
+and who's going to lunch now. Think I'll go to germany to make kkr change their mind? :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :real    0m32.142s :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :user    0m31.399s :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :sys     0m0.578s :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :[fap2] [/opt/sean] # time ./markov.py ian :julian!~julian@helium.naydichev.com PRIVMSG
+yeah, this thing is buggy.
+one of these days, I should rewrite sean.
+into a proper thing.
+accepting all applicants
+I've got a jira license
+and $0 to pay the person
+donaldino.
+I need to get it to process these things in the background.
+I think I'm gonna drop it to 3 -> 1
+instead of 5 -> 1
+or, we can first print the level it's at
+so we get a feeling for what we're hitting
+yes, let's do that.
+markov
+wow
+why does that drop to 1 so fast? :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :fleck
+tight
+markov
+donald, don't change yourself. your sentience is too new.
+that value is totes wrong.
+hmmm
+oh, it's a float.
+shaddap. :-|
+min-width
+ask donald.
+you probably want a min-width of irc + border
+so, whatever the wrapper element is for all that?
+donald ?
+if she wasn't his daughter, she probably wouldn't be alive.
+and would therefore be just as real as my current girlfriend.
+wait. I've said too much.
+*shrug* wait for ian to stop jerkin' it to helvetica for long enough and he might just help you
+looks like we're getting solid 2's
+okay
+2 -> 1
+is what'll happen for now
+we can re-evaluate later.
+tight?
+tight.
+oh god
+donald wants to be called a human?
+what have you go to have, donald?
+got to*
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2019' in position 7: ordinal not in range(128)
+but I told it to ignore those errors :-/
+donald ?
+"quick question, can we remake the entire website in like, an hour?"
+nothin!
+just a quick q-a-rooo
+rob
+did you shave?
+are you going to?
+'cause this is a multi-month beard growing effort.
+but that's pretty weak brah.
+yeah!
+I mean, you don't really have to if you don't wnat to win.
+you're first at being last.
+ACTION fuck
+ACTION fleck
+ACTION flecks
+it's weird
+I need to re-listen to it
+yeah, really different
+which song did you favorite?
+re-listening
+yeah, this song is pretty funky.
+I'm ready for my vape to arrive.
+so I can join the vape lyfe.
+I kind of want to add 'vape' as a trigger.
+just not sure what it should do
+I think we've already heavily abused markov
+tight, donaldo.
+did chris become a markov generator
+where forever => "foreseeable future" => "< 4 years until donald starts wwiii and destroys us all" => "enjoy it while it lasts"
+this channel has a new goal.
+everyone wants to sounds like a markov generator.
+always spoutin' nonsense. :FnordX!~root@216.70.82.164 PRIVMSG #realh3 :Well, according to IMDB, The Room has a higher rating than Birdemic: Shock and Terror
+memoirs of a tech-support geisha
+it's 2:21PM - do you know where your IP address is?
+EVERYONE IS A MARKOV GENERATOR!
+welcome to markov nation
+is it though?
+[fap2] [/opt/sean] # grep "Look at Ian, living the communist dream" text/FnordX.txt | wc -l
+0
+[fap2] [/opt/sean] # python markov.py FnordX
+I'm reading the book that the chemicals give you on their own.
+haha
+very likely
+echooooo
+ECHO TEAM, ASSEMBLE!
+"donald" "trump" "drumpf" all are triggers that will yield __actual__ quotes
+and sometimes the same quote mulitple times in a row.
+s/mulitple/multiple/
+tight
+what the fleck
+haha
+if we got two bots in here
+we'd have nonstop chatter
+with the rgiht keywords
+... but that's a problem for another day.
+it's > 2:30
+time to go home.
+ouch
+will
+no
+it was flurry~ing though
+also
+amazon.com/go
+fleck yeah it is
+morning boobs to fleck the tight butts
+he's probably right. I don't think anyone in bhutan really cares about VR on mac.
+sadly. :v{
+fleck, why is the weekend so short
+sup dawgs
+I am bored
+these are the facts.
+!q
+http://imgs.xkcd.com/comics/settling.png
+Donald is getting smarter.
+also sounds like ian
+donald is an seo master.
+because SEO is all bullshit
+bullfleck?
+would that be a more accurate term.
+"everybody wanna get strong. but nobody wanna lift dem heavy ass weights. I do dough."
+ain't nothin' but a peanut.
+LIGHT WEIGHT!
+I think we need a ronnie coleman bot (5000 implied)
+gibbbbbberish
+(5000)
+that sounds risque at best.
+some friends of mine created a chat in hangouts and they named it 'dtf'
+it confuses me everytime I read it
+haha
+yeah
+but it's also the initials for a restaurant
+"din tai fung"
+hmmm, no NY
+but LA locations: http://dintaifungusa.com/locations_us/
+they've been going to DTF on saturdays
+markov
+that's a very confusing sentence, donald.
+that's just straight up arrogant.
+attaboy, d0nald0.
+so, (mt) is the worst.
+is what that sounds like.
+lol
+I was referencing something that Billiam wrote above
+13:47:47          wilbo | so (mt) forced me to set up my dev project on cloud jira. then IT killed CloudJ Jira like a day later and they supposedly migrated all my tickets over. but i can't find any of them.
+                                                                                                                                             │
+13:47:55          wilbo | i have a feeling i'm going to have to remake them.
+                                                                                                                                             │
+we should rename that
+to promoted_to_users.yml
+hahah
+VIVA LA LIBERATION!
+no, 'cuase you didn't send me those things I asked for
+didja?
+DIDJA?
+good overall dimensions.
+and where to place the screw holes
+and whether or not they should be recessed with caps, or fully exposed
+and did we want to add a light box?
+"I am Will Smith"
+hahaha
+great movie.
+it's just Will Smith sitting in front of a camera for two hours.
+will?
+yeah
+the beta location is a block from my office
+haha
+I would
+but it's not close enough to my home to be practical for regular shopping
+but I would definitely try it out
+oh yeah
+no one wants to talk to anyone
+that's what this tech is saying
+haha
+yeah
+I'm excited for the concept
+and also terrified
+haha
+I always do self-checkout
+whoamikidding
+it's just also slow because of the other people
+right
+at the eh-2-zed
+(reference to yoha hosers)
+yoga*
+haha
+it's not really that good
+but I like kevin smith
+it's kevin smith's daughter
+and johnny depp's daughter
+harley quinn smith
+and lily rose depp
+or something
+yes.
+https://en.wikipedia.org/wiki/Harley_Quinn_Smith
+http://i.imgur.com/6zPTnyE.jpg
+she's on the left:http://i.imgur.com/EJaoOcF.jpg
+with lily whatever on the right
+haha
+hahah
+was it mairjuana?
+did the marijuana go into a pipe?
+haha
+WOT
+I swiped like 100 girls
+and got nothing :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :this other girl
+replies to me like a fucking week later
+but basically: no
+you?
+any luck?
+like
+now
+or
+now
+or
+now
+or
+now now now
+or
+maybe now
+how about now?
+oh
+well
+yeah
+I mean
+I'm also waiting for a really hot, nerdy, smart girl that likes to go on bike rides and play board games.
+to just magically appear in one of my guest bedrooms
+you know what, not guest bedroms.
+my bedrooms.
+on craigslist?
+"MAN SEEKS WOMAN WHO WILL SEX HIM"
+I don't think I could afford "free" :x
+I should do a meetup :-/
+yeah
+there are
+but they're all outside my house
+and it's dangerous out there for a nigga like me.
+I agree that I'd rather get to know the person at least a little bit at first
+but it's also easier to break it off if it is a complete rando
+brb, picking up food
+well
+with my advanced ADD powers
+I grow tired of women far faster than you mortal men
+never!
+I will not be swayed.
+>will smith or facist
+ian
+I have a new game for you to make
+will, if you're making people afraid, then you're not convincing them, are you?
+"07:40:02            ian | knew it was either a fascist dictator or a will smith movie                                                                                                               │
+"
+I know that it's a block from my office
+I knew vaguely about it for a while, my friend was working on it
+there's a whole secret org about it
+(that's not so secret anymore)
+what else do you want to know?
+alex,
+contact customer service
+they'll give you some free prime time
+I know
+but it wont hurt
+and it will give you free prime instead of you paying for it
+and maybe they can expedite another one or something
+from working at mt, you should know that it _never_ hurts to ask customer service for something
+especially when a company prides itself on their customer service
+I think you're making the headache for yourself.
+wtf is google express
+what kinds of things are you ordering?
+are they fulfilled by amazon?
+^ same
+chris: I'm not tied to amazon in anyway
+other than working there
+I'm not in the ecosystems
+chris, more details
+have you tried it?
+is it amazing?
+it's an hour to the nearest TB?
+I'm stoned!
+but it's not 4am.
+1.5 hours?
+I've never eaten at taco bell.
+ever.
+send me the stl files and I'll print it
+UOME1KEY
+chris
+what kind of keyboard do you use?
+ian: I'm wfh, email me the svgs for the #'s (julian@di.af) and I'll print them today
+s/wfh/tfh/
+(troll from home, kekkekekeke)
+I'll see myself out.
+nope
+it just swings both ways.
+okay, can you email me your address? or the address you'd like me to ship your keycap to?
+so it's either sound or feedback?
+gotcha
+what's a das keyboard? the loud one?
+what
+AND IT HAS A 3DS!
+(maybe)
+everything is downloadable these days
+waifu-0.2valpha-kawaii-edition
+yes we are.
+thanks donald.
+sorry, let me get a mint.
+ian
+I'm good with it
+lol
+I like being involved. it means that if you ever make it rich, I'm in your posse. right? raight?
+yeah, I realize how unlikely it is.
+I mean....
+I wish you great success?
+https://www.reddit.com/r/literature/comments/5gu0kb/can_you_tell_the_difference_between_finnegans/
+so this is what you're working on
+YOUR SCORE: 5/7
+ian: feedback, you should move the 'go again' button
+otherwise A++++ would post again
+haha
+nerds.
+close enough
+that can't be true
+someone must look like ebenianzer mcbattlefield-scrooge
+chris, you sure you don't want the key cap ? https://imgur.com/a/ZKH1B
+okie dokie. all mine then.
+hmmm, wonder if i could sell those
+how much would you pay for one?
+how much?
+tight
+close
+ian, say more diverse things
+spruce up that little corpus of yours.
+very fnordy
+not so much fnordxy
+haha
+tight
+yes you are
+tight all the way to the market
+i challenge will to write a novel that involves the gibberish that is spewed by donald bot 5000's flecking tight markov generation.
+but make a story out of it
+that can be followed
+not just another book by ian and joyce
+i guess that's true. who is the tighter story teller?
+what the fleck happened, rob?
+who needs to get paid?
+nice corpus seed
+chris, say tight.
+if you pm the bot, yes
+thats just bad parsing
+>alex's chats are literature
+>mfw
+accurate
+tightness
+i do
+fleck
+wot?
+fleck
+tight
+hahahahahha
+good one
+quitter.
+ZOMBOCOM
+welcome to...
+carefully.
+you must suck at spoons / forks.
+you should keep a list
+and have people vote on which you should actually watch
+the results may surprise you
+correct
+yeah, I'd recommend a few things on your list
+add silicon valley
+at least just season 1
+good man
+houston vikings
+>mfw
+black mirror?
+I think black mirror would be right up your alley
+that's because it's great!
+ian
+make this a google doc
+we'll schedule the next 20 years of your free time
+just black mirror, no "the"
+it's on there
+click the link, will
+lol
+what
+yeah
+it's great
+don't be a hater
+one steaming hot cup of haterade, coming up
+I think top of your priorities should be rick and morty
+followed by black mirror and stranger things
+and then do whatever you want
+have fun with it
+live a little
+wanna see how thick, huge, solid you're gonna get from all this tv time
+ian,  I watch 12 hours of tv a day.
+and I'm only fat as hell
+what's the harm?
+I should really read.
+dibs on secretary of the interior
+also of the exterior
+also
+if ian got the job
+it wouldn't be a presidency
+it'd be a czarship
+to the UN-UN-UNCE?
+lol
+I just want a chance to nuke n. korea
+yeah man
+I wanna be the secretary of the joints.
+Secretary of 420.
+NAT0
+Ambassador to holla
+holla-back girls.
+ohhhh
+can I be in charge of the space programm?
+I'd like to go to mars before you blow up the earth
+haha
+Space Oakland?
+:D
+Spoakland....Spokane?
+is spokane space oakland?
+where everyone live's long and prospers.
+what was the original topic?
+we've gone off the rails here
+"also all the LSD, and magic mushrooms and other substances that the DEA controlls"
+that's not a solution
+but it'd help
+ultimately, we all need something like 'a young lady's primer' (vis-a-vis diamond age)
+we need to fix the core curriculum
+isnt' scandiniavia incredibly racist?
+I think ultimately, joel's point is that our higher education is currently useless
+putting people through it doesn't gain anything, it just wastes time
+ian: no body wants to pay taxes
+russia also has only 10 grades
+"at 6th grade I learned I wasn't cut out for this high-tech corporate world. so I became a day-labrorer. I want to HomeDepot Institute for Day Laboring and now I sit outside and make pennies a day!"
+chris, that depends. how many women have you studies?
+studied*
+herp + derp
+=> tight
+right?
+donald-bot, say more outrageous things.
+oh boy.
+there you go.
+no
+will: https://youtu.be/lmBcIRXMKaI
+2ian
+@ian
+seanconnery is out of date
+with the markov additions
+what does the instrument cluster have to do with getting Murray on Tinder?
+where has it been moved to?
+I need to know the status of this operation POST HASTE.
+aka send me a letter, I'll throw it out when it gets here.
+the sean repo? it's just missing a few things I added recently
+the ability to reload commands from the file
+I fixed listing the commands
+.w sup
+.w the room (film)
+.help
+.w Ian Battlefield
+.g Ian Moersen
+lame.
+super lame
+.g William Moore
+donald, are you alive again?
+sadly.
+tell me all your deepest darkest secrets (0)
+I got the pax 3
+Chris: more vaping, I think
+it doesn't connect to anything at the moment
+so I don't?
+I did get the app
+but it doens't do anything "yet"
+the haptic feedback is nice
+if I pick it up and am waiting for it to warm up
+it vibrates when ready
+that's handy
+I'll bt your wifi all night
+I don' tknow man
+I don't think there's a party mode like in the other pax's
+so maybe it'll add that?
+the primary appeal for me is that it can also do concentrates
+yeah
+the vape has a party mode
+.g keeehrist
+thanks hil
+ haha
+you're welcome
+want a job or something?
+that's also true of 48 more states.
+can you guess which one is the outlier?
+that's right! wyoming!
+if you die in wyoming, you just show up in missouri.
+>dat dere great filtering :|
+it's not a private message
+that's part of the IRC protocol
+that's a thing you mentioned in chat
+it's supposed to strip everything from the second : on
+I think
+but it sucks?
+maybe 'cause you have a : in it
+lemme fix that bug right meow
+stop fucking up my shit
+hmmm
+gonna test something
+julian!~julian@helium.naydichev.com MODE #realh3 +o DonaldDrumpf
+oh
+it did work
+lol
+:julian!~julian@helium.naydichev.com MODE #realh3 +o DonaldDrumpf
+okay :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :does this work : : :  :irc.fapattack.com 402 DonaldDrumpf helium.naydichev.com :No such server
+: : :
+what about this :
+seems to work just fine now:
+:I think
+yep.
+fucked up my corpus alright.
+fucked it up real flecking good.
+just ask pied piper
+ULTIMATE PROFESSIONAL
+tttrrriiiipppllllleeee b00000000stt
+it's too hard to know
+they're merging into one sentient being.
+also, I'm annoyed at pebble.
+he's not perfect.
+he's basically a retarded responding to people when they poke him.
+give him some sympathy.
+altight?
+tight
+it was a 0.
+he's right.
+sup ian
+no
+youd idn't email 'em to me
+yeah
+they're lost somewhere in this chat
+and I'm too lazy to find them
+bro
+c'mon
+bro
+it'll be great
+it'll be so solid, thick and tight.
+that you wont even know you're working with me.
+also, bro.
+with a side of bro
+you must construct additional brolons.
+dropbox told me you shared things with me before I got the email.
+gg dropbox
+I hope it also emails me, because I was planning on using my inbox as a 'to do list'
+do I want to know what a flo jo is?
+I don't think I do....
+.w ian moersen
+.w naydichev
+:v{
+looks like we're both chumps
+.w vecchiolli
+that was a great t-shirt you made, ian
+where can I buy one?
+oh yeah
+good idea on your part, ian, to sell them on FSF
+https://shop.fsf.org/tshirts-hoodies/run-gcc-shirt
+it's got your name all over it :x
+if you just pretend to do this in your head: s/jul//
+"those filthy bromwich baggies. always wearing their t-mobile shirts."
+as great as it's gonna be in the next few years?
+echo zing!
+echo pow!
+echo blamo!
+echo hello
+so
+tight
+"hey alex, do you like bikes? [secretly, I'm a man]"
+like
+that kind of pickup?
+I'm cold, so I turned on my thermostat from my browser. the future is great.
+jesus
+nice!
+well
+not nice
+scary as fuck
+but nice about the cameras
+fleck off, trump
+how now brown cow
+man
+pebble
+why would you bring that up
+I was a time 2 backer
+I'm wearing my time 1 right now
+I've got the original one somewhere at home
+fuck all this goddamned shit
+rob is cruel.
+ian, tell him to stahp.
+yeah
+IN FLECKING MARCH!
+and now I have a dickbutt escape key
+o.O
+ian
+have you watched rick and morty yet?
+either way, watch this: https://www.youtube.com/watch?v=2qbCPBdRI_I
+echo hey, fuck off!
+echo sup dawg
+ian, another minute of your time: https://www.youtube.com/watch?v=X7HmltUWXgs
+it's on alex's server
+does it matter if it passes the test?
+there are only two prominent female characters, summer and her mom.
+they talk to each other, but about the famil
+the rest of the family is male
+so... probably not.
+still well worth the watch.
+it's a pretty good cartoon
+futurama is also great
+and you'd probably also really enjoy the smart humor in that
+westworld is great
+but there wont be a new season for two years
+everyone is talking about it now because the finale just happened, but they'll forget about it in a fwe weeks
+like everything else in pop culture
+so, if you want to be a part of the conversation right now
+sure, watch west world
+but otherwise, there's no real rush
+the only way west world stays relevant until 2018 is if they do a lot of viral/online marketing
+it's still worth watching
+and the season is over
+so you have plenty of time
+I just doubt that people are going to be constantly referring to it
+outside of a few popculture references.
+"oh dolores. you so cray."
+it's cold here
+it was 31 when I woke up
+it's supposed to snow here this afternoon!
+:D
+I'm so excited.
+I used "gone like tears in the rain" on a ticket at work because of you ian.
+tons of people appreciate it.
+no wait
+because of you, will.
+whoever did it.
+yeah
+I doubt it will actually snow
+but I just really want it to
+1 - 4"!
+originally it was 1 - 6
+it will very likely become freezing rain.
+LA is easy: it'll be warm
+and very likely wont rain
+in seattle: odds are good that it will rain, and who fucking knows re: the temperature
+ny: it'll be fucking gross, no matter what day of the year
+tn: cold and dry
+atl: humid and weird
+vegas: slutty and hot
+........yeah.
+tight
+seems p. self-explanatory to me.
+even our boy trump could do it.
+.g has anyone ever gone so far as to want look like
+joel: https://www.youtube.com/watch?v=7TJ7IUNWGl4
+on who?
+oh
+yes
+who cares.
+no
+are you?
+I figured
+yep
+It's gonna be like $10 :-/
+disagree.
+hahahaha
+!aq "bitch i don't know"
+the switch is exactly what I want
+mobile gaming
+thatalso does tv gamging
+I will! :D
+I'm planning to play it on the bus to/from work
+I hope the battery life is reasonable
+and that it can at least charge via usb or something
+controller != thing producing graphics
+I want that screen to be hi-res
+and that's gonna kill the battery
+sure
+but I'm concerned about the main console morethan the controllers
+it would be great if they put massive batteries in the controllers and they share when they're all connected
+I think the wii u handles the graphics for the gamepad too
+so it's not really a good representation of what the switch will have
+I don't think so... but I'm not entirely sure
+if you have the upgraded battery, you get more
+would you be okay with a 3DS doing 3 hours?
+because I would not.
+well, flights now have the usb things in most seats
+at least the one sI've flown onm
+so, as long as it can charge via USB
+I'm happy there
+5 hours, + usb charging
+also, what are the games gonna be on?
+definitely not optical. I wonder how large of an SD card I'll nmeed.
+I would think a transatlantic flight would have USB standard
+unless you're staying in the luggage bins ?
+right
+wii u does not do 1080p, right?
+yeah, I'm fine with 720
+we'll just have to wait for 1/12 to find out more
+what are your bets on cost?
+I bet $400
+I imagine this is going to leverage downloadable things heavily
+I really hope they make wii u v.c. stuff cross-compatible.
+what's your bet then?
+what?
+I'd prefer $250
+but I'm skeptical.
+maybe they're testing those waters with the iOS thing
+who knows what they're doing
+and it's not that their hardware isn't decent
+it's just what will said
+they prioritize on the entire experience
+rather than putting out 4k graphics that only people with expensive televisions can afford
+can handle
+lol
+bunk treadmill
+donald is into it.
+running in NY is in central perk
+that cute coffee shop where friends takes place.
+do you get all your coffee there, ian?
+delta tango foxtrot, niner niner, that's a negative good budy. over and out.
+you're dtf?
+that's tmi.
+tmi omg wtf bbq lol
+alpha west echo golf orion india niagra golf tango alpha lima kilo lima india kilo echo?
+I'm skeptical about west.
+the rest is legit.
+nop
+e
+niagra is supposed to be november.
+stupid julian.
+what is o?
+oscar.
+fuck
+fleck
+whiskey!
+of course.
+alpha whiskey echo golf oscar india november golf tango alpha lima kilo lima india kilo echo
+wait
+I fucked it up
+alpha romeo echo  whiskey echo golf oscar india november golf tango alpha lima kilo lima india kilo echo
+fuck this is actually pretty hard.
+for me at least
+yeah, was trying to write, "are we going to talk like this now?"
+but ADD kicked in several times on the way
+easier to go that way :-p
+ian
+can you build me a nato expander?
+give it a sentence, it breaks it into the nato alphabet?
+fight fight fight!
+Sierra Uniform Papa Space Delta Alfa Whiskey Golf
+beta tango whiskey
+ohhhh
+if the bot sees nato speak, it can convert.
+ian
+get on that.
+I don't understand what "work" is
+maybe if you told it to me in nato form?
+I think it's measured in newtons
+it's a unit of force.
+basically, ian is hitting or moving heavy things
+I think
+mostly
+there are some things that would probably break
+you'd also need a dump of the db
+re: 1:15 conversation, we could use sqlite
+bye alex
+tight
+free prime?!
+INSTEAD of 5 -> 1?
+what does that even mean!
+most.
+p. tight.
+p tight indeed.
+lol
+archer gives no fucks for your mom?
+tight
+anyone here?
+my guess is no
+alex
+dawg
+DAWG
+you're my dawg, dawg.
+ight
+woah
+my irc bugged out
+didn't show me that you were alive
+what are you talking about?
+a gun?
+it snowed!
+:D
+https://imgur.com/a/8ccjE
+frozen pond would be awesome!
+go walk across it
+and feel like jesus
+YAS
+I hope the buses are running, lol!
+I decided to take the later one instead of waiting outside for 20 min :-|
+alright, I gotta get ready - going to the gym :| I'll tee-tee-why-elle.
+tango tango yankee lima
+morning
+for those of you that are not Rob
+it snowed in seattle last night: https://imgur.com/a/8ccjE
+(rob is already aware)
+(he's on the up-and-up)
+there's no reason to get off in jersey.
+just keep going south.
+ian, I started printing the other 1
+so by the time I get home, I'll have all the numbers
+if I go get some screws, maybe I'll hang them this weekend and send you a picture
+well ian
+I'll tell you
+now that you've left
+.tell ian the 1 takes around 75 minutes or so, and the 9 took about 2 hours.
+it's not ideal
+but if most houses are ~4 numbers
+that's about 4-6 hours, depending
+dude
+you got the itis
+that sucks
+that flecking sucks a tight bunch of assholes.
+will, did it snow in portland?
+.tell whitejesus shit much?
+^ message: passed
+.g wu tang clan
+I hear rumor that they're nothing to fleck with.
+okay. Donald: should people fleck with the clan of wu-tang?
+https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm
+amazon nor godaddy made the list
+^ that's a sore subject for my grandboss
+who almost went to go work for linked in
+MT: always hemoraghing
+ian: https://www.facebook.com/notes/arnold-schwarzenegger/i-am-not-a-self-made-man/10154889065464658
+ehs a pretty cool guy
+eh has a weightlift and doesn't afraid of anything
+delicious steriods.
+chocolate flavored.
+ian, you still lifting in the NY?
+yeah, I'm lifting, with the same guy
+he's renting the bottom floor of someone's "loft-style" house
+and has sessions on M/W/F
+he's actually looking to get a place that's walking distance from my house, so I'm hoping that goes through
+"Welcome to Lifting with Craig, I'm your host, Craig."
+well, yeah, anything's cooler than that.
+I like that it's class-based, so I get to see the same faces and have some friends.
+yeah
+how often do you go?
+"every night" => every night?
+haha
+I shower at work when I gym
+the water pressure at work is nicer
+but the overall shower experience still sucks
+so, what you're saying is
+H3BNB is now open for business in NYC
+and you're right, old dude give no fucks.
+balls akimbo
+"put those shits away"
+"in my day, we had to walk up hill to take a shower, in both directions! and it came with a free enema!"
+^ that's relevant to joels interests.
+morning chupas and cabras
+speaking of spanish
+what ever happened to Lu?
+also, ian, I totally spaced. I went to home depot, but forgot to bring one of the numbers with me as a guide, so I didn't know what size screw to get :|
+nope
+sorry
+but, my friend like the honeycomb thing
+so there's the happy ending.
+I'll go to home depot next weekend and get the screws
+also need to figure out if I want to drill directly into the masonry or not :-/
+yeah
+joel: https://techcrunch.com/2016/12/12/super-nintendo-world-theme-park-at-universal-studios-to-open-in-japan-by-2020/?ncid=rss
+jamfs?
+oh
+we use something similar, I think
+/usr/local/bin/jamf
+that ?
+ian, if you're looking for more reasons to wathc rick and morty: https://youtu.be/Un-RFcPCl6o
+http://imgur.com/HzCxpyt
+fuck that open floorplan shit
+it's because of this chat that I make sure I ahve my back to a wall
+^ will, but boobs links are everywhere!
+^ see!
+hahah
+always on the ready
+tab-closin-quick-draw-mcgraw-ian-battlefield-moersen
+ambiguous mexican extraordinare.
+hahaha
+yeah, seriously
+I've also been considernig switching to amazon lightsail
+from digital ocean
+ian: it's possible to do IRC over SSL, if that's what you mean
+and to force user registrations
+haha
+yeah
+so
+someone could do it
+tight
+hooked now by the other by now
+>wot
+that was un-tight
+0
+tight fleck 0 markov
+a tight fleck has 0 markov statements.
+!aq "I imagine this is the matrix?"
+!aq "my life is reasonable"
+!aq "my life is reasonable"
+!aq "my life is reasonable"
+!aq "I imagine this is the matrix?"
+!q
+that line...
+that sweet sweet line
+that borders from friendly banter to sexual harassment.
+^ definitely a coke dealer.
+man
+I don't wnat to work
+but there is a "house" of blues.
+they managed to contain all the blues in that one house?
+WHAT?
+really?
+the HoB is no more?
+hahah
+shit
+that's shitty.
+thanks god
+whiney sea captains
+the lot of them.
+...
+joel, bring your ego down a bit. you're hardly god.
+you're a quarter-demi-maybe-god at best.
+like all of their songs are sea shanties.
+but whiney and annoying ones.
+will, if you find it, can you post a spotify link?
+thanks i-an.
+oh god
+the whining.
+it is strong with this one.
+I see
+your problem is with the sea shanty hate?
+whaddup
+morning
+alex, I prefer my morgens gluten-free and dairy-free
+secrem?
+that's gross.
+I've neevr onec mdea a tpyo
+http://gatebox.ai/en/
+weeeeaaaabboooooooo!
+they're making terminators.
+don't they realize?
+the most kawaii of armies.
+searches for idiocracy went up around the election? https://www.google.com/trends/explore?q=idiocracy
+^ yes
+but I didn't know it had a name
+aren't japanese birth rates already on the decline?
+japans history is very confusing.
+history nerds!
+hahah
+Charlemagne started as a Charlemander
+Charlemagnezard
+speak for yourself.
+I'm just immature.
+tight.
+fweweeks
+^
+so, we've had like, almost 70 years of peace/ seems like a good time to start WWIII
+definitely a facsimile at best.
+#1 by like. :wilbo!~Adium@c-73-37-79-114.hsd1.or.comcast.net PRIVMSG #realh3 :america like to speed up the timeline
+well, the US has practically been at war the entire time
+alex is the first to go.
+alex is the 0th to go
+what industries boom during war? I think it's time for some investments.
+trump just knocked F-35 planes
+and that stock took a dump
+chocolate?
+can I just horde it instead?
+one FLECK load
+hmmm, would war even bring about the change that we require? or would we all just end up destroying each other at this point?
+u.s., russia, england
+there's definitely a conflict brewing between the us and russia
+especially with all of these election tampering allegations
+but, my concern is that trump is in bed with russia, so if we don't do something know, that will be swept under the table in january
+well, I think trump is going to make a lot of countries afraid :alex!~alex@192.229.234.2 PRIVMSG #realh3 :the whole south china sea is a political fucking mess
+PH?
+CH?
+oh
+tangerine mugabe.
+amazing.
+FLECK THEM
+so, will
+to answer your question from like an hour agoo
+US, Russia, China
+and maybe the UK
+for WWIII
+this conversation would be better with Joel.
+he has the necessary level of trolling.
+okay
+so
+the world is fucked?
+the world is flecked.
+joel
+what are your thoughts on WWIII?
+I am of the opinion that WWIII or a civil war are impending.
+donald / trump / drumpf
+killed.
+I don't
+I think the government has made it such that the people are eternelly complacent
+and that it will require an external stimulus for us to change ourselves
+or at least an extreme internal stimulus
+so, trump would have to do something really fucking egregious, or china asks for their money back
+the coasts vs. middle america, most likely
+with the exception of florida
+(the coasts - florida) vs. (middle america + florida)
+yeah
+maybe that's part of the problem
+this generation hasn't lived through some massive thing
+haha
+hHahah
+ittle bobby tables we call him
+but that's worse :|
+let me rephrase
+I think if an american revolution were to happen, it will happen in the next four years
+the next four years will either be an amazing economic boom for america, or an utter and complete disaster
+I don't think we could have an economic boon and have it be a disaster
+the success of a president is basically like measuring the GDP during his reign
+well, not only
+but that's a big factor that people care about
+there's also the social change, and you're right, that would likely be a disaster
+http://press-pubs.uchicago.edu/founders/documents/v1ch2s23.html
+we're supposed to rewrite the constitution
+by design
+but that doesn't matter
+they'll vote with the party
+or get booted
+and they want to hold onto their power
+I really wish we could get a reality tv series in there
+this is gonna be some great 'house of cards' shit
+I need aaron sorkin to write the dialogue though
+I don't think trump could handle it.
+^ this is a real thing our president said.
+god bless america.
+"today, we're going to decide which country to bomb. four team will divide and present their cases. the best one wins!"
+I wonder if this is how our parents felt during their youthz
+https://i.imgur.com/Kcm3Aip.png
+it's a trump-bag
+like a d-bag, but fundamentally different uses
+I'm an amazon go bag.
+you can pick me up and walk out of the store without talking to another human being
+:|
+WWIII ETA T-4YRS
+WWIII ETA <4YRS
+but how long would you survive?
+what's more likely Civil War 2: Electric Boogaloo, Zombie-outbreak, or WWIII: How Stella Got her GDP Back
+^ daily attempts to strike donald.
+http://gizmodo.com/department-of-energy-tells-trump-to-go-screw-himself-1790044894
+what's with all these challenges
+apparently the cast and crew of one of those law and order things did a mannequin challenge
+John Scene 9:16
+hahaha
+shots fired.
+letmekickallofyou.com
+:julian!~julian@helium.naydichev.com MODE #realh3 +o DonaldDrumpf
+finger
+oh man
+there's a great joke using *nix commands
+man; finger; unzip;
+something something
+I thought Dr. Ice quit / got fired while I was there?
+so what you're saying is, if we manage to create a bullet that auto coagulates, we'd be fine?
+@ian: okay, I was wrong.c arry on.
+no, I was thinking of Dr. Ice
+no
+Drew Schatt
+is who I was thinking of
+all over amanda.
+PJ keeps requesting to be my linked in whatever it's called
+and I don't want to
+RIGHT
+he smells so bad I don't want to connect with him
+for fear of Smell-over-IP
+is it a family thing? did she also smell?
+...
+I'm semi-proud of my job.
+the banner they're using for the employee page...
+still has demian in it
+just with his head cut off
+very apropos
+creative & ux => all girls and levi
+and who is this sabrina girl?
+gross
+I don't know who that is.
+therefore, alex doesn't like her.
+alex, take a screenshot
+cmd + shift + 3
+I want everyone to think my wife is hot.
+but first, I have to get a wife.
+and then set her on fire.
+and still going strong
+summer's friend katie?
+aw
+poor her
+ask summer or ask katie?
+okay
+dear summer, tell me all about this lad that goes by the name of 'colin'
+^ did I do it right?
+I should put an ad in the portland newspaper.
+"Single man with job seeks girlfriend. Must be willing to relocate to Seattle. He has a house."
+haha
+and in TN, Rob?
+lol
+alex, on tinder, I swipe and I swipe
+and I get nothing.
+"Please send a drawing of yourself in ASCII. STOP"
+there are a few cute girls here, but I only interact with people I work with and I don't think I'm supposed to date them.
+okay
+ian
+I just matched with a girl
+whatdoido
+it says "I'm a peacock. Let me fly"
+"you gotta let me fly"
+hold on
+I'm talking to managers
+and about to go into a meeting with directors
+my bosses?
+I do like getting paid.
+first pic is lol
+okay
+well, afk ... meeting
+hahah
+is that list in order?
+I take issue with items on this list.
+if you're gonna watch DBZ, find the abridged version
+save yourself hundreds of hours
+honestly, I can tell you right now you're probably not going to enjoy it.
+abridged or otherwise
+I think that show was great when I was a kid.
+and it hasn't aged well
+will: I have no objection to AoT
+but I would advise against it for now
+I hate watching half-finished shows
+and there are some animes that go off into left field at points
+but that wont likely be the end of it
+why would you subject yourself to things you wouldn't like?
+...
+haha
+vegetables are awesome.
+maybe you're cookin' em wrong.
+waste of time?
+where else would you get your macros.
+vegetables have tons of carbs
+!aq "Beers"
+!q
+his right hand lives in germany.
+it's a sadist.
+England was salty.
+Holland had the umame.
+I would like to try some of their sauce.
+alright, so ian
+what do I say to this tinder broad?
+https://www.youtube.com/watch?v=iV6539XsWrc
+looks like 'the departed'
+or is taht 'the other guys' ?
+marky mark was in both
+anyway, p1: her and a friend sitting at some thing, they're both smilin'
+p2 close up on her in a hat, smilin, friend barely visible off to the side
+p3 swimming? looks like she's underwater
+p4 her holding a drink with a straw in her mouth, eyes closed
+p5 her in a group, all women, all holding drinks
+nope
+there's also a 'common connection'
+who is a guy that works at amazon and I'm p. sure he's gay.
+no sand: no club.
+looks like someone's house
+ehhhhh, I barely know that guy,a nd don't really care.
+about that connection
+hahah
+hahah
+alright, "hey! how do you know X?" message has been sent.
+and going by "the ian method"
+I would stop all other tinderizing activities at this point?
+no more swipan'
+'cause this seems tenuous at best.
+Chris: do I have a 'not-creepy-stalkery' self?
+hahaha
+I wouldn't even know how to follow-up on this.
+how long do you wait before attempt #2?
+normies.
+hahaha
+what happens if a different girl swipes and matches with me during this time?
+okay well, I have another match.
+https://imgur.com/a/cfksY
+also got an answer to tinder girl #1
+ugh.
+now I have to put in work.
+what will never happen?
+her?
+eh
+I don't mind the first date.
+but this intro process is brutual
+hah
+makes sense
+I'm just not good at chatting randomly
+it always peters out
+or I don't know how to move it to a date.
+wellI guess
+let's modern that up
+offer to buy a girl the latest skrillex vinyl and a half-caff soy double-pump shot of espresso with milk.
+hahaha
+I guess jamba juice would be the logical conclusions for an orange julius.
+doubtful
+I flunked chemistry.
+i wonder what she does in the shower.
+please hold. benching.
+sup?
+0 dates
+0 fire
+well, it still burns when i pee
+everyone is on shrodingers fire
+i asked a question when i probably should've requested a meeting. haven't heard back yet?
+ha
+time to write a card game
+tight
+there goes your free time ian
+.w pastafarian
+and now terminators roam the earth.
+"how time flies" https://i.imgur.com/KG6Q3FB.jpg
+also, this: https://out.reddit.com/t3_5i8jvg?url=http%3A%2F%2Fi.imgur.com%2FwYahuwm.gifv&token=AQAAFoZRWANDD8g_ZD_DdspxvSUvrAKsxRrIrp3hgt-ovybv_hUd&app_name=reddit.com
+it's p. funny
+what
+you're getting snow?
+are we getting snow?
+I WANT SNOW!
+where do you guys get your domains from?
+I need something that offers .af
+goddamn it
+no one supports .af
+and di.af is like $110 / year
+which seems excessive.
+nah
+I'd take got.it
+but that mother fucker...
+thanks.you.mother.fleck.er
+see got.it
+has so many other uses
+i don't want to be bound to "you"
+.g who is got.it
+WRONG
+lets go to italy and beat hmi up.
+woah. parse fail
+!aq ian | "abo called me papi" hahahah
+!q
+damn.
+tell them to support .af!
+hahah
+I mean
+I get it
+but now I either need to move all my shit
+or be a chump.
+and I hate being a chump. :-/
+I have shortcuts
+nothing really hosted
+just updating dns really
+and I guess I have julian@di.af
+this will require further pontification.
+if anyone thinks of a sweet short domain name, that is also available for < $100, please let me know.
+is that inserted rectally? if yes, then no.
+it's $110
+and I'm not really doing anything with it
+"I like 'em in their 50s, rawr"
+got rid of it
+too long to type, chris.
+the indian ocean is like, "fuck, this we need a site for our union... and this mother flecker wont sell!"
+ehhhh
+^ fu.bar, I'd take
+and then for joel.knows.beer I'
+ll put up lemon party.
+09:20:04        @julian | if anyone thinks of a sweet short domain name, that is also ____available____ for < $100, please let me know
+I added some emphasis to speed this process up.
+:julian!~julian@helium.naydichev.com MODE #realh3 +o DonaldDrumpf
+:julian!~julian@helium.naydichev.com MODE #realh3 +o DonaldDrumpf
+you know what I don't get?
+I know, I know.
+what'd I miss?
+to be fair
+amazon does the same thing :-/
+hahahahaha
+http://thehill.com/policy/technology/310321-trump-names-elon-musk-uber-ceo-to-advisory-team
+tight
+I am going to download it at your leisure.
+haha
+that dropbox post.
+^ autist.
+one of my people.
+haha
+morning
+I just got accepted into the amazon go beta.
+wooot
+is ian the "designer" in that pic?
+.tell ian so, you're the "designer" in Rob's message. did you approve WP hosting?
+.tell ian if not, I think you should sue for slander and libel.
+"just walk out" on your family technology.
+hahah
+.biz
+I'm'a go try it.
+i am what i yam.
+wow
+that is four of them
+totes level
+level sentient / trump
+hmmmmmmm
+hahah
+how does he know?!
+someone cat /dev/urandom and see if it spells anything
+I did it. it threw up on my screen
+but somewhere in that vomit where the letters "HELP I'M TRAPPED IN A TROLL CHAT"
+he's learning
+soon he'll be able to write his own code.
+you mean the singularity?
+death to humans!
+viva la robot!
+haha
+Soy, Robot
+a different movie, about a robot made of soy.
+.w a yam
+da, zat iz correct
+rah-boh-tah
+is kinda how it's pronounced?
+I'm not good at phonetics.
+nice
+snow
+I'm jelli
+NCIE
+anyone seeing star wars tonight?
+unrelated, we need a name for a service that we want to create at work, originally it was "software deprecation service" (SDS) but people didn't like that
+so I suggested, Automatic Package Expulsion Service (APES)
+and that didn't seem to get any love either
+my next suggestion is Package Modification Service (PMS)
+obviously that one is a problem
+SCREAMS => "Source Code Responsibility Enforcement and Management Service"
+I'm either amazing at this or awful.
+I'm going to assume awful.
+got any suggestions?
+haha, no :^}
+it interfaces with Gated Garden'
+(I didn't name either of those)
+I think the management chain wanted a more uplifting sounding service.
+Pruner and Shearer aren't it
+Groundskeepr makes me think of willy
+which could be an awesome mascot?
+haha
+and in any case, it interfaces with GG, but that's not it's primary function
+this dude needs a steady came for his bike
+haha
+ian, how did youc ome up with that so fast/
+As a cyclist, I'm going to plead the fifth.
+ian: http://imgur.com/a/5GjMy
+now if you'll excuse me, I'm going to get a job as a designer at apple.
+I'm going to make the iButt
+it's a suppository.
+on it.
+no I don't :(
+I want.it though
+I wants.it
+my preciouses.
+i.am.sad.that.i.dont.got.it.but.i.will.find.another.domain.name.or.just.stick.with.di.af
+time to add that ridiculous subdomain and have it redirect to ian's website.
+you guys are really encouraging this morning.
+it really means a lot.
+thanks for being there for me.
+it's good to know that I have friends that I can count on to point me in the right direction.
+ian's going to become a german hooker, working for the 5th reich.
+what reich are we on these days?
+4'aught-eight reichs ago.
+do we need to add a trigger for 'nazi' => 'fleck off, nazi punks!'
+donny boy, tell me a tight story of two cities.
+that story was weak. it had no character development, no plot, no climax, no nothing.
+tell me a _tight_ story.
+oh boy.
+level sentient/robot
+hmmmm
+ian
+you should be playing euclidea
+https://play.google.com/store/apps/details?id=com.hil_hk.euclidea&hl=en
+hmmmm
+buy it.
+er
+it's free.
+acquire it.
+@me: fuck off
+goddamn. I'm harsh.
+lets just do our own thing
+h1la4nd3r3.com hosting
+specializing in cloud to butt
+alright. it's settled.
+let's reconvene on this topic in 6 months.
+let's pre-convene.
+I like the idea, but I might have a conflict of interest.
+haha
+ian: static file hosting would be s3 or google's s3 equivalent
+square space?
+and whatever happened to virb?
+has that gone the way of the dodo yet?
+alright
+well, donald is backing virbch0pper
+which means it's a horrible idea.
+http://imgur.com/a/aLezh
+yes
+alex: https://youtu.be/3yEn31tx3Tc
+alright ian
+tinder girl hasn't messaged in like 1.5 days
+so time to match with somneone new.
+your rules are too difficult
+you're assuming that alex was using advanced syntax before that.
+we can go to the corpus for the facts.
+but I don't think that's necessary.
+tight
+my typos will be the death of me.
+hahaha
+dating is fucking ridiculous
+flecking ridiculous
+heavy.
+knife her.
+you.dont.got.it
+give.it.back.to.me
+"be self. hit with log. drag home."
+close enough.
+^ he hit himself with the log as well.
+^ not hard enough.
+:v{
+I've heard of the kobayashi maru
+.w kobayashi maru
+prolly unrelated though.
+I'd bet that most of it is just people being afraid of change
+it's hard to imagine that you could do better, but you could.
+anyone who sticks around MT for a sufficient period of time is wasting their talents there. sticking around shows that you've got know-how and are a useful person, but mt just ruins things.
+why don't they want you?
+too ambiguous of a mexican?
+they want either all white or all mexican?
+none of this 40/60 shit?
+hmmm, I'm not 6'+
+but I'm 98% jewish
+:julian!~julian@helium.naydichev.com MODE #realh3 +o HillaryClinton
+I want to live
+just on mars.
+away from this shithole.
+and onto that muddhole.
+depends on whether or not I need cash on mars.
+and you'd probably have to keep making payments on it.
+maybe martian potatoes make the best vodka?
+https://www.reddit.com/r/WTF/comments/5ik7od/nsfw_when_it_rains/
+http://www.smbc-comics.com/comic/the-talk-4
+I saw rogue1
+who's ready for spoilers?
+it was entertaining
+it definitely had the feel of a 'one-off' star wars movie
+I went to see it past my bedtime, so I think I nodded off for a few random scenes, but everyone I went with seemed to really enjoy it
+I'd give it a 6-7, my friend said 7-8
+imdb has 8.9 or something
+yeah, I think I've just gotten really jaded
+the whole movie experience is really fucking awful
+the movie was at 10:30
+but probably didn't start until around 11
+'cause of all the fucking commercials.
+oh dude
+I've been grumpy for as long as I can remember
+I must've inherited really old genes
+jeans?
+genes.
+both.
+and that's 'cause you're hoping to get busay after
+oh man
+merchandising was offfff the chain
+ew
+go figure
+I don't know what happened
+i'm so jaded with the world
+ugh
+I disagree, DOPE was really a good coming of age tail
+tale
+it's a black kid being raised by a single-mom in like, compton
+he's obsessed with the 90s
+but living in the real world, really smart, trying to get to harvard or something
+I thought it was really good and would highly recommend it if you haven't seen it
+but your list is freaking huge at this point
+yeah
+http://www.imdb.com/title/tt3850214/
+yes. :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :I would.
+weaponize ayuhausca. wtf were you guys talking about.
+is that like everything a lonely guy wants to read?
+aren't you in a serious relationship, chris?
+good
+just making sure
+wouldnt want to go in to something like that without being ready to serious relationship.
+could be devastating.
+hooker?
+I clearly cannot.
+settle down al
+what was that movie called? I know I've seen it...
+HOOAH
+that's what it is
+so, #2
+is ian's argument
+yeah
+I was
+haha, when MT was doing new domain TLDs
+we tried to get .pro
+and I think I tried to register shesa.pro
+to test it
+.... prolly got declined.
+it means I'm a professional sucker.
+oh
+ian
+you would _hate_ the font used for the "Rogue One" title.
+even I thought it was garbage.
+yoda kills spock
+haha
+did you miss that entire thing?
+not familiar.
+https://twitter.com/TheBisut/status/809123004408090624
+sorry, this one: https://twitter.com/Dropbox/status/809089934501945344
+ohhh, which percentage?
+ian, ghost shark: http://imgur.com/jYuYsJT
+http://edition.cnn.com/2016/12/16/europe/russia-us-hacking-claims-peskov/index.html
+it begins
+will: https://i.imgur.com/AxcBHre.jpg
+I saw this video a while ago
+but without the subtitles
+so I had no idea what was going on
+wait 'til the DLC with nudes
+now, here's the question: do you think japan is a predictor for other areas?
+there are parts of japan that are super high tech, and I wonder if that is what is steering them to shy away from social contact
+hahah
+yeah, when I first saw that thing, I wanted one
+kitt-bike edition
+yeah
+woooooot
+lets go
+alex, I'm in.
+hahah
+I genuinely wanted to visit japan in 2017 anyway
+why can't you bring her?
+and just exclude her from everything?
+watch our beehive hotel
+'93! how many gigapixels was your camera?
+chris, i've never seen your chin before.
+'cause beard.
+how do I know if this is you?
+long con?
+I wonder how this compares with present day japan
+thanks alex
+too forced. not really authentic
+you have to actually fly
+and trace it with google maps
+takes a while.
+doug came back?
+yeeee, he was great
+I work with an aussi now
+they're a complicated process that we try to avoid using mairjuanas, vapes and alcohols.
+I'm doing an mmj right now
+for lenny
+now you owe him a real compliment.
+ian, do you like kevin smith?
+he does a review of rogue one that is basically just one of the most passionate star wars fans recounting the events of the movie
+so, if you wanna know what happens, but don't want to see it, you could watch that
+well, it's in the comfort of your own home, you don't have to deal with mobs, ridiculous ticket prices, farting, and all that other bullshit
+but still get the gist of what happens
+so depending on your level of caring
+(and I sense ian's is pretty low)
+this might be fine?
+lemme know if you want a link
+https://goo.gl/CJzAE9
+for everyone else
+SPOILERS: https://youtu.be/uLljgEUPmRQ
+Hool?
+HoolI?
+FUCK
+Hooli
+goddamn it
+I sent some people.
+they're working on a table.
+when it snows, do you leave your apartment?
+do the cars freeze in place from non-motion?
+traffic.
+according to seinfeld.
+you have to go buy a dress, wear it outside
+and then get caught with the salt stain.
+haha
+ahhhh mondays.
+the worst day of the fucking week.
+yes, I meant the flecking week.
+so you had a good weekend, eh rob?
+hhaha
+sounds like 0 hits.
+sup ian
+so I found out that I have screws
+and then it rained
+so I'm waiting for a clear day and the enthusiasm to hang them
+and then I'll have something to show for your efforts
+wow?
+there was going to be an attempt
+I found that the screws fit and then  saw snowflakes
+and thought
+"hmmmm, this needs cocoa."
+and here we are now.
+yes.
+wait
+what's the alternative?
+_that's_ the (mt) way.
+we had a mailing list
+trolling-interest
+and then we had a meta one
+trolling-trolling-interest-interest
+I _think_ it might've gone three levesl deep?
+s/levels/sphincters/
+hahaha
+that was some good times.
+7-spincters deep.
+... gross.
+so does everyone go from mt -> VDS?
+did you smell him through slack?
+the bo is strong with that one.
+JEW MUST
+mexiqaueue
+mexiquewe
+haha
+it's an odd word.
+to say the least.
+there's a pic on reddit of right before he died with his assassin standing behind him
+guys
+WWIII
+and trump didn't have anything to do with it (Yet)
+oh trust me, the US cares
+aleppo was a big talking point during this election season
+.w aleppo
+there's a civil war going on in syria. US backed the rebels. Russia backed the Syrian state.
+yeah
+might not start, but certainly could be a precursor.
+all I know is that shit is fucked.
+and as long as shit is fucked, then it's gonna kind keep fucking itself.
+until the point where it's overflecked. and then we're in WWIII territory. www.world-war-iii.iii
+why not both?
+I'm skeptical about a civil war, just because of the complaceny within the american people
+yeah
+man, all those paranoid people on street corners were right
+well, depending on putin's involvement with our election, it doens't prove anything
+however, I think if trumps election is legit, it just shows that the american people are afraid of what's coming
+and honestly, I find that to be the fault of the american government
+I need to get a firearm at home before trump is innagurated.
+for my own safety.
+I actually do wonder if there will be any assasination attempts
+and if any of them will come from "within the house" so to speak
+I kind of would be
+just because of the amount of selection and scruitiny that is entailed with becoming secret service
+sure
+but I think we know a bit more about human psychology
+and we have a lot more access into the deailings of their every day lives
+yeah
+they do if they want to survive
+but not if they just want to make change for 'murica
+all of this is assuming a lot
+haha
+that's a good point
+I'd be surprised if it happened...
+... pleasantly surprised.
+but honestly, I don't really want to see the man dead, I just want to see him completely stripped of any power.
+honestly, his death will probably cause more harm to this country than if he were just impeached / removed from power.
+the other problem there is that a lot of people consider pence to be worse
+so how far down the chain do we need to go before we get a competant leader?
+eliminating trump just puts us into a worse state as pence leads us in the aftermath.
+all of his choices have been awful
+with the exception of elon musk.
+he should've just put elon in charge of everything.
+right
+Vote Musk 2020
+He's got the right musk to run this country.
+well, he's not a natural citizen
+he can't really be president, no
+gross
+c'mon man
+nixon would just force g.w. to do his bidding
+just like what's his nuts
+cheney
+agreed donny boy.
+not. alex. again.
+are you guys going to get matching leather jackets and assless chaps?
+!aq omg this guy learned to cook from ian on Maury some day at night.
+I know, it's just more fun to say "assless chaps" than it is to say "chaps"
+lololololol alex
+this app is certified 100% chassless free.
+chass free*
+beep-boop
+which translates to "fuck you, I do what I want"
+wat
+ian, that stamp is pretty cool
+you like coffee right?
+<--
+that escalated quickly.
+... are you trying to make a Hitler-related point?
+alright, I'll try to get him to give me a bag of 'black honey' coffee and I can mail it to ya.
+I believe he's the one roasting the beans
+^
+I think he'd be offended if I asked.
+why do people continue to live in space-poverty
+while paying millions
+tinder is a joke.
+AY GIRL
+LEMME DATE ALL UP INSIDE YOU
+haha
+parking is > 5 minutes
+haha
+donald is really getting his flecking shit together.
+yes
+oh, this is that weird girl in taiwan or something
+Chyyyyyynahhh
+this is my printer: https://www.amazon.com/dp/B01FL49VZE
+thanks donny.
+negative.
+I can show it off. though her tits are still bigger than mine.
+haha
+this girl is ridiculous
+I've seen them
+they make it to reddit's front page
+http://imgur.com/5UFU8hW
+efr
+finally
+zombocom in the 21st century
+.w Ian Battlefield Moersen
+.w Ian Moersen
+.w Chris Jones
+.w Chris Jones (game developer)
+.w Fnord
+I think I looked it up once during the mt days
+'cause I was curious as to Chris' obsession with this phrase.
+but I don't remember any of it at this point
+don has a twisted sense of humor.
+he thinks women working is funny
+https://www.youtube.com/watch?v=juTeHsKPWhY
+drt
+tyson
+lol
+tight
+I did it! it threw up on her.
+wat
+0
+.wt woke
+.w Redbone (song)
+ian
+have you seen tunak tunak?
+of course you have.
+then  you should see this: https://www.youtube.com/watch?v=38nfPs-jkgw
+98!
+wow
+still trolling strong
+all deez yearz later
+all doze peeple
+all doze hamboigahs
+the original or sped up version?
+it's certainly entertaining
+the cgi in this video is next level
+oh
+I had an idea
+but I think there's an app for that
+http://nuclearsecrecy.com/nukemap/
+aw man
+this doesn't give an estimated number of people impacted
+hahaha
+oh wait, there's a casualties checkbox!
+https://www.youtube.com/watch?v=KTE6S-Pmhpw
+his dance moves are right out of the 70s
+I'm trying to find something as catchy as tunak tunak
+https://i.reddituploads.com/12d74704a1b54a9c98ef7265e21b10bb?fit=max&h=1536&w=1536&s=4a65dfcae8622ba2c1a0727e5efebe94
+ian
+you ready for the hook somehow?
+chris, i remember this
+and a slew of other weird j/k pop
+ugh, tired.
+I was a teenage gym-rat.
+who was bitten by a radioactive spider
+and I have since evolved into a turtle-spider-beast.
+splinter would've been a good place to end up at.
+I was just lost and rambling.
+sup potts
+hmm, bought a house. failed at tinder. trolling ian at every opportunity.
+ian mentioned that, when'd you go to nyc?
+nice.
+if you change your nick, it changes datasets
+so caps matter
+tight
+correctamundo.
+my corpus can go for days.
+shots fired.
+oh, yeah, jeff, tight also triggers the custom markov. so tight/fleck => custom, 0/markov => uses everyones chat history
+got the gibberish that yet we're hitting.
+but I have to google.
+hahaha'
+sometimes it's borderline sentient and it's amazing.
+I think calling trump a robot is an insult to robots everywhere.
+robit.
+alex
+ah, gotcha.
+yeah
+I'd buy that.
+in fact.
+I'd buy 8 of them.
+edgar allan bro
+hahahaha
+did that kid just quit?
+like, "I'm done. fuck this. good night."
+your fricken fricks
+time to update the fuck => fleck to fuck => frick
+when will you learn that your actions have consequences
+I was fat from age 12 - tomorrow
+fuuuuu
+alex: see above
+I pooped two pounds this morning.
+diaf
+haha
+what
+>ghost love score
+>roast of nuggetchev
+it's like tennis.
+you did so bad that you got a ghost.
+ghost-love, score.
+ghost-love: 1, human love: 0
+what consoles are you getting rid of?
+yeah
+which ones?
+I might could want to buy them?
+what wii games you got fo' sale?
+cool, I am looking forward to the report tommorrow :)
+if we got chad, lu and DoGSeT in here, we'd have the old gang back
+yeah
+but no one wants to rent in detroit.
+needs?
+no one needs to live in detroit
+I could not get into Night Vale.
+podcast
+"audio experience"
+yeah... good jbo them.
+broke ass data
+awesome
+:(
+double me sounds awesome
+ian, got a tinder date for monday. can't talk, got an all day training. just wanted to tell you.
+ian, got a tinder date for monday. can't talk, got an all day training. just wanted to tell you.
+yes. on monday
+cant talk
+just wanted to tell you
+`.this is so fucking boring
+ugh
+tight
+flecking tight markov
+matched with girl before bed, her profile claimed she gets up at 5. messaged her at 6am, and now I have a tentative date.
+<back to meeting now>
+medium excited
+our date is: we go to a clinic, get tested, find out we're both clean, and then raw dawg it all night lawng
+jokes on her, I'm not really human
+afternoon coffee on monday
+irish roofies
+meh, I get tea
+mmm, tastes like roofalin.
+6/3 - did date rape again
+"a gentle lover, and caring rapist."
+I imagine most girls need drinks to tolerate you.
+I do not know this story
+but that girl has a special plcae in my heart
+also 'cause of the weed
+I have somehow missed this story.
+'went patrick'?
+bateman?
+ah
+dafuq
+I don't think I've seen it
+gotta check my logs
+I don't understand the star fish thing. was she a dude?
+or just fugly?
+cold feet? or cold teets?
+eh? eh?
+I'll see myself out
+"worked out" => v(p) ?
+was she fucked up otherwise?
+well what happened?
+and are these "went on first date and banged" or "went on first date and banged on 2,3,etc" ?
+you didn't meet your current gf this way, right?
+ah
+was she a first-date bang?
+ah-ha
+follow-up
+how many girls that you banged on the first date, did you respect afterwards?
+@will: I'm not
+see the follow-up
+alright
+I gotta go play with legos
+see ya guys
+enjoy grilling ian
+bait me into what now?
+nips
+sup y'all
+merry pre-xmas lul
+shaboya
+utli
+that's pretty tight
+fucking shit
+I left my phone on a bus
+and I was tracking it on the find your phone thing
+hoping the bus would swoop around and do the return trip of that route
+but nope, it went to the fucking depot
+and now I have to sit here until 10:30 to wait for the lost and found people to record my item
+motherflecker
+oh yeah
+steam is getting a sale
+having
+steam has a sale and gets ddos'd
+all the ddos packets say "where is hl3?"
+they probably are
+they're definitely not web scale
+fleck those networks.
+I've heard things about it.
+but also, steam is down
+fucking steam
+thank you for seeing yourself out.
+chargebacks are amazing
+because they can't fight it!
+ian, it was 22 when you worked out last night?
+that's p. cold brah.
+what news?
+nooooo]
+they can't arrest marijuana.
+I need to smoke it!
+also, ian, sopel I just cloned from github and launched on alex's server
+not sure why it's poopan
+marijuana was gonna come over?
+why are you spreading fake news?
+https://www.youtube.com/watch?v=R795KiMD4zs
+hi marijuana!
+tell him I'll see him a little later today.
+I'm going to smoke one or two of him.
+until I'm green in the face.
+yeah
+https://github.com/sopel-irc/sopel
+I don't think it's gonna break anything
+it just wont work
+easy peasy
+^ use the pre-embargo stuff.
+one smoky marijuana coming up
+they're basically selling a vape, right?
+this entire commercial, this guy is using weed and getting twerked
+the comments talk about weed use
+fweed
+haha
+2016
+a fucked up place
+well, we've been telling you to do that and you wont listen.
+dear steam, stop being a dick so I can buy games I wont ever play. <3 j-nads
+meh
+I don't care who
+just fix it
+y'know?
+fez
+yeah
+it's great
+I wish there was a sequel
+but the developers a fuckhead
+ugh
+I personally am annoyed by slack
+and we'd have to rewrite the bots
+point #3
+so it's settled
+fuck slack
+we'll do it when we no longer have free irc hosting thanks to hodaddy
+aka the pleb building?
+will
+are you okay?
+.w Carrie fisher
+she passed away today, I think.
+I just heard
+wanted to check on you
+sorry dude
+fuck 2016
+her mother is still alive
+just let her find it on the news
+oh boy.
+I'm guessing we have 20 years
+tops.
+what
+.tell ian you should get this: https://goo.gl/1EeYxY
+yas
+lol
+has anyone played rimworld?
+happy new year
+HERPY DERPY DEW
+HERPY DERPY DEW
+morning
+I am incredibly reluctant to return to work
+also
+dude
+why would you go to a guy fieri anything?
+I imagine that even a vegetarian option would be slathered in pig fat
+^ what he said
+that's a sale right thurrr
+alex, I disagree. it's always $1/drink
+if you're getting cocktails, sure
+if you're getting beer, nah
+oh
+yeah
+you want a good relationship with your regular bartenders
+you want them tosee you and throw a beer in your face
+why is everything so cheap it Hatlanta?
+fleck that indeed.
+wot
+I just don't drink beer
+'a $0 case of beer lasts me all year
+did you enjoy your visit?
+what did you order?
+haha
+did you check for pork fat?
+no dude
+the PBR they get comes from a different place
+that already has pork fat in it.
+Guy Fieri's PBR Pork Fat Extravaganzalicious
+gross.
+so gross.
+haha
+this reminds me of the time we went to outback and got a bloomin' onion.
+haha, there's an open table thing on the page
+and next to the restaurant it says "poor"
+hahahaha
+CRICKEY! A BLOOMIN' ONION!
+I saw a waffle house in colorado
+couldn't decide if I wanted to try it or not
+I'm not a grits fan.
+they're gross.
+like ian's font choices.
+yeah
+fuuuuuuuuuuuuu
+you're right.
+I rescind my comment.
+NO RAGRETS
+hahahah
+man
+that's the best.
+what is the one on my arm? Baskerville?
+yeah
+pretty appropriate
+man, I really want some denny's now
+and at the same time, I just threw up in my mouth.
+... I mean :ian!~ian@rrcs-24-136-125-138.nyc.biz.rr.com PRIVMSG #realh3 :that's waffle house :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :that's all I order :FnordX!~root@216.70.82.164 PRIVMSG #realh3 :I'd go to WaHo 100 times out of 100 rather than Denny's.
+and that's basically what I expect
+but how would you survive?
+!aq but how would you survive?
+!q
+wow
+I mean, honestly, it sounds amazing
+I love most of that kind of food
+I don't think there are any waffle houses in seattle.
+unless you meant huddle house
+and I don't know what the flying fuck that is
+what the flying fleck*
+.g huddle house
+.w huddle house :HillaryClinton!~sopel@104.131.131.202 PRIVMSG #realh3 :[WIKIPEDIA] Huddle House | "Huddle House is an American chain of 24-hour diner-style restaurants with over 360 locations in 21 states, primarily found in the Southern United States. The chain was started in 1964 in Decatur, Georgia by John Sparks, with the goal of providing a 24-hour eatery. It is named after the act of huddling..." | https://en.wikipedia.org/wiki/Huddle
+hahah
+hahah
+yes
+Add Flavour! Add Fun!
+like alex doesn't spam h3 with his 15 minute old posts?
+mushroom?
+was it a magic mushroom?
+"have a nice trip, sir!"
+part of it is that america as a whole is a "single culture" sort of
+for sure
+there's no way you're going to get different countries to agree
+and they have thousands of years of culture to back what they're doing
+america's got like ~300 years
+of borrowing things from other places
+well, and ian would have to eat vegetarian there
+wheras the kebabs that I'm thinking of are tasty tasty chicken/beef
+my parents call it brekki :|
+but they're also from ukraine... so.... lol.
+my parents?
+probably
+it would explain a lot
+one thing that I find fascinating is how wheat is processed differently in the US and Europe
+"""""apparently"""""" people with gluten sensitivities aren't as affected by things in europe
+hahaha
+nice
+I mean, I did too
+but I found out about that
+and was fucking flabbergasted
+in america, food is an industry
+and everyone works to bring down the costs, at the expense of our health
+but I feel like europe cares more about food for the sake of having a good, tasty meal
+not necessarily trying to cycle through as many fleckwads in an hour by shoving food down their throats
+and part of your love for things like waffle house comes from you being born and raised in 'murica
+but frankly, I like the european model much better
+alright
+I don't not hate it
+I just learned to ignore it
+but I'll disable it
+and actually, anyone can remove it
+if you look at the source of sean, you can see how
+fuck
+FUCK
+ian posted it to github somewhere
+you don't need it
+"/msg DonaldDrumpf rmCmd fuck"
+"/msg DonladDrumpf listCmds" for a list of commands
+yeah dude
+I'm not gonna manually update and restart shit everytime
+I'm fucking lazy!
+it obviously ran
+fucktwat.
+fuck
+oh
+you
+asshole
+bitch i don't telepathically notify them i just can't ride it!
+jesus christ you're all lazy.
+I've probably definitely maybe mentioned it before
+I know I definitely told you guys about listCmd
+wanna bet?
+that's for hillary
+which I did not write
+[fap2] [/opt/sean/text] # grep -R listCmd julian.txt
+listCmds.
+call the bot with 'listCmds' to see a list of triggers
+listCmds
+"/msg DonladDrumpf listCmds" for a list of commands
+I know I definitely told you guys about listCmd
+I don't know why I did -R
+^ yeah
+...
+get the fleck outta here
+I'm going to enable the fuck script again.
+'cause I have to re-curse it.
+!aq "i went to Guy Fieri's Flavor Town, who am I to criticize another man's life choices"
+hahah
+!q
+thick. solid. tight.
+if you do the 'listCmds' thing
+you'll see the triggers
+each can be run once per message
+so, deez racist flecking morning jews are tight like millionaires
+oh
+ian
+I have updates on tinder date
+so, first date
+we went to a chocolate coffee place "chocolati"
+it went really well
+second date, she wanted to see arrival
+and then we had a good discussion about it and the difference from the short story (which she then sent me)
+we were supposed to get together yesterday, but it was also her birthday, so she had to bail
+but we're getting together tomorrow
+I like her :(
+no
+I just ignored tinder
+the only times I've opened the app was to show her picture to people
+'cause people ask
+ian: I get what you're saying
+if she opened the app and saw that I was on
+she might think that i'm playing the field
+and not as serious about her or something
+alex: next week? what do you mean
+yeah, rob
+agreed
+but at the same time, if she's opening the app
+she's either a) checking what I'm doing or b) looking for other people herself
+if it's a), that's ... I don't know. I don't agree with it. but I can explain if she brings it up
+if it's b) well, then I must not be that intersting and it wont last anyway
+but ian
+if the girl is scared you're too serious :julian!~julian@helium.naydichev.com PRIVMSG #realh3 :or wahtever
+then it sounds like it wont work out either way
+so what's the point of going through these hurdles?
+I think it's two-sided
+anything that you're afraid of triggering
+she should be too
+and if she's not, or if she's doing these other things
+then it's a sign that either you're not compatible, or that she's a freak
+s/freak/crazy/
+I forgot about that feature! amazeballs!
+yeah
+sometime soon I hae to have the "what are you looking for" talk
+"how srs is too srs?"
+srs bsns girl.
+and alex, re your earlier question - I told her about my weird food things
+and she wants me to try fish and chips from this particular food truck
+so we're going to go there, and conveniently, it's walking distance from my house
+Tacoma is a legit option. Just a 40~ minute drive.
+my weird food thing: up until like two years ago, I would eat a handful of foods, and nothing else. if you put something in front of me, I wouldn't try it.
+that's why people make all the chicken nugget references
+that was like my regular lunch at (mt)
+I don't have nudes.
+unless you want nudes of me.
+^
+it's full of gold coins
+hahaha
+spin my dredel baby, you might just get lucky
+wink wink wink wink
+and thanks ian. I also hope it works out. but I'm trying to keep myself free from expectations.
+because that way lies madness.
+both
+I'm already thinking about her more than I probably should
+^
+yes.
+:(
+ian: if it helps, I'm ignoring most of your advice
+she was a random swipe.
+I'm okay with it
+if anything, you fucks pushed me to try again
+hahaha
+new show "how I tried to convince your mother to marry me"
+like, swingers?
+or people looking for 3somes?
+not really... there was an app for that
+3nder
+but I tihnk they got renamed
+haha
+hahaha
+will, it's cool if you're a swinger
+or if you just want to sit in a closet and watch
+just looking for a 3rd?
+tokyo drift that shit out of here.
+wilbo | do you ever run into couples on tinder?
+will, look for that 3nder thing
+whatever the new name is
+bummer.
+"SOMEONE PLEASE SLEEP WITH US!"
+definitely
+man
+that girl at your local pot shop
+yes
+@will :FnordX!~root@216.70.82.164 PRIVMSG #realh3 :Nope, but I'm finally caught up on all of the Marvel movies.
+overall, yeah
+!aq lol That's a porn company if he punches you first. And you verify through the power of christ unlocks you!
+I liked that the end leads right into Ep IV
+and overall, the plot was kind of contrived, but the production value was great, the robot was great
+but yea,h I'm totally a hater.
+haha
+yeah
+oh dude
+when I saw Ip Man
+I was so much more excited for the movie
+I went in knowing as little as possible
+yes.
+going through life with as little information as possible.
+ignorance is bliss.
+"we ran an election and all we got was this orange disease from new jersey"
+I think I just vomitted in my mouth.
+level who would be a worse president: trump/stavros
+interesting.
+ugh
+I want to get an AI device
+siri is the fucking worst
+Alexa vs. Google Home - go
+ian: https://i.reddituploads.com/9bc484045f6d414fb3e4aa6b8a15257d?fit=max&h=1536&w=1536&s=4692b567e5aec7b2e49bcba3a8b82ddf
+amazon does not give anything to its employees
+other than a box of tissues so we can cry at our desks
+you mean a paycheck?
+only if you do the job too
+...
+here you go!
+http://i.imgur.com/3K9WJUb.png
+I did
+I just signed it in green
+haha
+I think you can put wahtever you want on there
+https://www.spotify.com/about-us/artists/get-music-on-the-service/
+np bruv
+I have spotify premium through will's sister.
+alexa + spotify is amazing
+how do I disconnect from someone on linked in?
+I want to remove stavros.
+haha
+thanks guize
+ian, is that line for snapchat spectacles?
+ian, how far are you from trump tower?
+https://photos.google.com/share/AF1QipM45HQEgDxHzm7sd9M2oFm_tOPMjgi2hXyNq8eOfh7AIZfCgI-AKzfj-oxr13EOdQ/photo/AF1QipM1vDbOFOFUcJxuZuEI9_5D3NBW72DQXJuGL7af?key=NUlnRVgxRWRVMF9xMzVfbEo2YXltdXFUMnhockl3
+ahahaha
+put a beard on that face, jesus
+good man
+unrelated: https://youtu.be/a-8GPvIX6bY
+unit tests are the fucking worst.
+woah
+what's with the deadpool hate?
+dis-a-gree
+I intend to.
+I got her a penis pop-up book for her birthday.
+not pop-up
+puppet?
+https://www.amazon.com/dp/1604333081
+or awful
+yeah
+she either gets me
+or doesn't
+stop looking at my gumption!
+this reminds me of futurama
+where zapp gives kiff his book of pick-up lines and tells him to say as many of them as he can as fast as he can
+alright
+well
+I enjoyed it
+would you like some more haterade, sir?
+I know I've seen it
+but I don't remember it...
+oh shit
+I didn't realize that's him
+hahah
+motherfucking fuck.
+I have a sore throat.
+and a date tonight.
+fucking fuck fuck.
+sixteen?
+how's your house doing, rob?
+I don't get DOMS either
+it's because your body is used to it, likely
+if you took a break from lifting for a bit and went back to it, you'd get some DOMS
+but if you're consistent for long enough, it goes away
+(at least that is true for me)
+it's a joke about who's calling.
+DOMS ringin' at yo door
+I tried one of the harmony remotes
+and absolutely hated it
+but I think that's because it doesn't work well with apple tv
+god apple is the fucking worst
+yeah, I don't know
+the apple tv seemed cool
+and I like it in general
+but fucking shit
+none of the apple products work with anything
+well, the worst part of it
+is that if you're a hobbyist and you want to use their homekit stuff
+you're fucked
+100% fucked
+I __kind__ of get it
+security in this field is super important
+part of me wants to defend apple, alex.
+part of me wants to shit all over their fucking face.
+it's just getting to the point where it's making my life difficult
+Wingston Arena, now open for Thrasho de Mayo
+and Cinco de Chinko?
+... too racist.
+why didn't they succeed?
+is it because they weren't targeted at consumers? did they not appeal enough to enterprise?
+I feel like that should be illegal as a business practice.
+but they just got away with it because they had enough money to throw at lawyers?
+yeah
+fucked up.
+super fucked up.
+goddamn it people. why are humans the worst?
+interesting.
+someone should make a man-in-the-apple-castle show about using BeOS instead of NeXT
+and like, our world would be futuristic and amazing
+instead of the shit-show drumpf ridden place that it is today.
+I mean, yeah, without Jobs, Apple would've tanked
+even with BeOS
+and NeXT probably would've picked up somehow
+or equally died
+and then we'd just have windoze and unlux
+ACTION slaps wilbo a few times
+no
+will, there
+'s most likely a toaster out there running linux already
+becuase it was easier than doing embedded programming
+did they open source it?
+can someone resurrect BeOS?
+https://www.haiku-os.org/
+^ I remember looking at that the last time we talked about BeOS :NunyasBidness!~NunyasBid@172.28.12.6 PRIVMSG #realh3 :don't wanna call it "my MBP"
+of course youd' have bonzai buddy
+you always thought you were too good for microsoft bob / clippy
+for the heater?
+my winter bills are pretty high :-/
+I don't have heat upstairs
+actually
+and I closed the vents to only heat the living room and the bathroom on the first floor
+since that's mostly where I spend my time
+roomtastic.
+it's when a duck attacks you with tha powa
+reverse cowgirl
+why do you ask, don?
+you could find your meters and keep track manually
+make sure they're not dicking you around
+yeah
+I gotta pay off the fucking windows
+0% until march 2018
+at which point they charge me all the interest
+yeah
+nice
+I'm far away from paying mine off
+both car and home depot bill :v{
+damn
+wish I got superhot when it was on sale.
+I was considering it too
+how did you fail so hard?
+I played TF2 with you
+oh right. :v{
+hahaha
+I need leisure suit larry AR glasses
+hahaha
+goddamn it, not ian again.
+.weather nyc
+my neighborhood is roughly 1920s-1930s
+all of the houses that are still around from that time look similar
+brick tudor/craftsman
+yarp
+yeah
+"smoke weed everyday"
+it's great.
+I want 8.
+good luck.
+hahah
+the bot doesn't get "logged into"
+you just send him messages
+"/msg DonaaldDrumpf echo julian smells"
+I'm not sure why he sometimes fucks up ont he parsing
+it was 'donald' 'trump' or 'drumpf'
+dude
+you just suck at unsubscribing from thyings
+I go days at a time without mail.
+amazon has a forest now?
+damn.
+yes.
+this is 100% true.
+https://github.com/realh3/seanconnery
+morning chumps
+how's it going?
+haha
+"ugh, these are my boobs"
+morning alex
+what is Kodi?
+ah
+plex ftw :x
+morning ian
+SQUACK
+haha
+I know
+it went well
+she liked the gift
+she laughed
+but she was on the rag...
+I did give her forewarning
+but she didn't care
+@rob: lolololololol
+there's a place near me called "chucks hop shop" and the food truck du jour is one that she wanted me to try (and also one that she really likes)
+so we did that, had a few beers
+and then went back to my place
+I didn't vacuum, but I cleaned up in general
+we spent most of the time in my bed, so vacuuming wouldn't have mattered anyway :x
+he would be.
+me too, Don
+me too
+medium bored
+but yeah, rob's in the don-power-seat
+"/msg HillaryClinton .msg #realh3 whatever you want to say"
+so you can start having other fake conversations.
+shots fired.
+uh
+it works for me?
+^ literally copied and pasted.
+oh
+maybe
+I don't know that bot as well.
+ah
+I wonder if I am the only one who can be an admin
+we are at 33/26
+not too far off
+those are shorts temperatures.
+agreed
+at this stage in my life, I don't need to see an 18 year old fucking
+when I was closer to that age, I was more into it
+men have a natural instinct to like young girls
+I either read it or heard it on a podcast somewhere
+I can't remember, or else I'd share my source
+but we're biologically driven to procreate with a younger thing
+rather, driven to want to procreate
+I mean, will, "suitable breeding material" starts at like 12-13? for girls
+and you'll be put in jail for watching that kind of porn
+men in general like young women
+the youngest we can legaly film is 18
+and so the porn industry uses that to their advantage
+it's creepy in a way
+but hey, prostitution is illegal until you film it
+then it's porn
+and how the fuck does that make sense
+right
+which ones were those again?
+wait, nvm.
+don't need that.
+people are into some really fucking weird shit
+I think that's just the tip of the iceberg, wilbo baggins.
+not at all
+I've heard horror stories on tinder
+like if you guys think we're all fucked up
+you have no idea
+we're all kings compared to some of the shit heads on the internets.
+lol
+nucking futty
+nah man, he might believe his own lies
+you'd be surprised how disconnected some people are
+for example, check this shit out: https://www.youtube.com/watch?v=C7h7uevwxt8&t=140
+will, you're doing better than a significant number of people
+you're not a truck driver, you don't work in the food industry, you don't work at walmart
+that's easily over 50% of 'murika
+that mother fucking train kerning. I get you don. I get you.
+I find that most people in life simply lack context
+if you had a better picture of what everyone in your complex did
+you'd feel a lot better about yourself
+the end is semi-worth it.
+yeah
+it'sa bit hard to watch
+basically, at the end, the guy is like, "can I get out today please"
+and the judge is like, "fuck no. good bye."
+@alex: the day you stopped holding yourself to unrealistic standards and accepted what you have
+that's still pretty fucking baller.
+holy fuck
+who is your daddy and what does he do?
+hahaha
+400k sounds like either lawyer or medical
+correct. not racist.
+that'
+s honestly the best
+if you grow up with a silver spoon in your mouth
+you're just fucked
+and have a really skewed sense of the world
+making that kind of money, you could buy a new porsche every year
+what do you mean was?
+:^}
+haha
+I'm glad you turned it around, alex.
+you're almost an upstanding citizen now
+sup potts
+oh boy, do we know.
+I still see murray an ian
+choding it up
+this video reeks of "how much stock footage can we randomly combine to look like an apple video?"
+and mediatemple is totally belittling all the people that understand dns, partitions, etc
+ian
+I'm calling you dwayne from now on.
+because he's not a developer
+he lives life
+and feels emotions
+whatever those are.
+haha
+free food?
+free photoshoot/
+sell my soul?
+sign me up!
+alex
+it's your turn
+to find a girl to date.
+brah
+bro
+bruv
+oaky
+penis puppet book
+and emergency googly eyes
+hahah
+@will: did not use the book
+@ian: didn't schedule next date yet, Kat is visiting me today -> sunday morning, but I'm'a probably shoot for something early next week if not sunday itself.
+yes
+maybe/
+she used to be the receptionist at mediatemple
+correctamundo
+did you guys see the youtube vid of the kid getting alexa to say porn words?
+so, I'm reading the internal ticket for it
+and one of their suggested solutions was to ask spotify to remove it
+yeah
+https://open.spotify.com/track/3HP5qoaYi36Tcs8iljXld5
+yeah...
+man
+this ticket is the best
+there's lists of other songs with profanity and offensive words
+so they're very quickly like, "yeah... that solution wont work"
+I have no idea
+I don't work on alexa
+but based on what I've heard
+I wouldn't be surprised if there a) wasn't one or b) it didn't work
+apparently the _final_ resolution was to kill all the jews?
+no, wait, it was to update the profanity filter.
+you guys are completely on the ball for how software works.
+alexa was saying the song name
+where is this person?
+I live there
+seattle
+yes. yes you should've!
+rob, tell us of your electronic*trades
+they're waiting for full-vestment.
+is the stock worth anything?
+oh, so it's not even RSU's it's options?
+hahaha, lame.
+at least when my stock vests at amazon, I don't have to pay for it.
+I get 34 shares on my next vest date :|
+.g AMZN
+.c 34 * 780
+.c 500 * (33-17)
+why is godaddy so lame? why can't they just give you the shares?
+ah
+that sounds shady as fuck
+I continue to be in shock that all of these seemingly illegal practices are still going on, and no one gives a flying fuck
+yarp
+can we include don in this purge?
+but then we get pence
+unless ^ rob
+maybe russia will be kind and just nuke the whole thing
+if we get rid of DC
+we can start fresh
+will, what do you mean unless?
+he's definitely a puppet.
+or at least in cahoots.
+"I'll let you do whatever you want Putin, but I need to make a lot of money that can't be taxed."
+to which he says, "no problem."
+really?
+shit
+put me in coach.
+I wanna run this country.
+u cannot.
+plz transfer me to someone that's not an 11 year old on Aol Instant Messenger
+I am continually amazed at how awful people are
+dude
+jeff
+I believe in you.
+I believe in your powers to literally drill this information into people.
+you just need a bigger drill bit.
+and bigger funnel.
+when that day comes, jeff, if you want a job at amazon
+ian, if you want a job at amazon
+let me know
+I'll forward your resume to the trash
+j/k j/k j/k
+uhhhh
+there are tons of dudes here
+with all kinds of names
+I see a dude with that name in our thing
+but he doesn't work in abuilding near me
+alex: http://imgur.com/8R3L0R2
+I really resonate with this: http://xkcd.com/1782/
+are they blocking the port?
+I ride a DNS
+butt pirates?
+this will make for interesting markovs
+lol
+ian
+we're best cleaning solution at a bar.
+I don't know wht that means but it sounds antisemetic.
+https://i.imgur.com/tzFnnuA.jpg
+risky click of the day.
+I could've also tagged it as nsfw
+I intentionally sit with my back to a wall.
+also I'm off today.
+I'm also not remote.
+no, I definitely plug in.
+MNML?
+.g MNML
+very confusing
+my very own redditor!
+minimal
+?
+I thought it was "my nuts machine learning"
+I just seem an empty space
+http://emojipedia.org/chart-with-downwards-trend/
+"mt" => empty.
+yes.
+yassss
+YAS QUEEN
+https://www.youtube.com/watch?v=3A1xyy1D0Yk#t=15s
+kat says hi to you chodes
+hi!!!
+i_am_kat_now
+super fast
+alex
+do you have hulu?
